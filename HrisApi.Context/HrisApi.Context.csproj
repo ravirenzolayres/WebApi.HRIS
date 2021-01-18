@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201031231147_SecondMigration.cs" />
+    <Compile Remove="Migrations\20201031231147_SecondMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201106075722_3rdMigration.cs" />
+    <Compile Remove="Migrations\20201106075722_3rdMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201120071622_InitialMigration.cs" />
+    <Compile Remove="Migrations\20201120071622_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201120075633_InitialMigration.cs" />
+    <Compile Remove="Migrations\20201120075633_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201120075915_InitialMigration.cs" />
+    <Compile Remove="Migrations\20201120075915_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201123065103_AddEmployeeCodeForPersonalAndEducationInfo.cs" />
+    <Compile Remove="Migrations\20201123065103_AddEmployeeCodeForPersonalAndEducationInfo.Designer.cs" />
+    <Compile Remove="Migrations\20201123065800_InitialMigration.cs" />
+    <Compile Remove="Migrations\20201123065800_InitialMigration.Designer.cs" />
+    <Compile Remove="Migrations\20201123070820_InitialMigration.cs" />
+    <Compile Remove="Migrations\20201123070820_InitialMigration.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="HrisApiContext.cs~RFeac764.TMP" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HrisApi.Model\HrisApi.Model.csproj" />
+  </ItemGroup>
+
+</Project>

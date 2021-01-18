@@ -1,0 +1,15 @@
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Context.deps.json
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Context.runtimeconfig.json
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Context.runtimeconfig.dev.json
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Context.dll
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Context.pdb
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Model.dll
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\bin\Release\netcoreapp3.1\HrisApi.Model.pdb
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.csprojAssemblyReference.cache
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.AssemblyInfoInputs.cache
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.AssemblyInfo.cs
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.csproj.CoreCompileInputs.cache
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.csproj.CopyComplete
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.dll
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.pdb
+E:\repos\repos\HrisApi.Solution\HrisApi.Context\obj\Release\netcoreapp3.1\HrisApi.Context.genruntimeconfig.cache
